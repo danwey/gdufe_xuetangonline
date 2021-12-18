@@ -1,0 +1,17 @@
+{
+  "name": "mooc",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "fetch-cookie": "^1.0.0",
+    "node-fetch": "^3.1.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
